@@ -1,0 +1,46 @@
+We are seeking a skilled data scraper to extract information from a popular place review site (site URL in attached txt file). The task involves scraping the ~3000 (or more, we can talk and define) most popular places from each city with at least 50,000 inhabitants globally (1,715 cities worldwide with more than 50,000 inhabitants). The data to be collected includes from each place will be capped by a number we agree but it will have to contain:
+
+- Pictures
+- Text descriptions
+- Ratings
+- Reviews
+- Any other relevant details
+
+Requirements:
+
+- Proven experience in web scraping
+- Proficiency in Python, BeautifulSoup, Scrapy, or similar tools
+- Ability to handle large datasets
+- Attention to detail
+- Knowledge of place review sites' structure is a plus
+
+Deliverables:
+
+- A comprehensive dataset in CSV or JSON format
+- Organized folders containing images
+- Documentation on the scraping process
+
+Code: 9139839813991391
+
+Less than 30 hrs/week
+Hourly
+1 to 3 months
+Project Length
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+Contract-to-hire opportunity
+This lets talent know that this job could become full time.
+Learn more
+Attachment
+ target site URL.txt (1 KB)
+Project Type: Ongoing project
+You will be asked to answer the following questions when submitting a proposal:
+
+Have you scraped the target websites before ? Which one of them ? How big was the dataset you scraped and in how much time did you manage to fetch all info ?
+What is your fixed price and ETA for delivery on this task ? Just wanted to get an idea more or less, we can discuss details in PM
+What is the code at the end of the job description ? Do not use ChatGPT to reply to my QA
+What strategies would you implement to avoid IP blocking and ensure efficient scraping of a large number of pages? Include details on handling rate limits, rotating proxies, and user-agent strings.
+Skills and Expertise
+Data Extraction Deliverables
+Screen Scraping
+Web Crawling

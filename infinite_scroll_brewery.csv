@@ -1,0 +1,11 @@
+Name,Phone,Brewery_Type,BillingAddress
+Barley POP! Brewing,(360) 610-6843,Micro,"['Marysville', 'United States', 'US', 'Address', 48.074448, -122.166983, '98270', 'Washington', 'WA', '4715 86th pl ne']"
+El Cid Brewing Company,6198928261,Micro,"['San Diego', 'United States', 'US', 'Block', 32.755108, -117.131223, '92104-1204', 'California', 'CA', '2911 El Cajon Blvd # 2']"
+TOCCOA BREWING COMPANY,(678) 577-2122,Brewery In Planning,"['GRIFFIN', 'United States', 'US', 'Block', 33.275821, -84.334044, '30223', 'Georgia', 'GA', '100 BEASLEY ROAD']"
+Trap Door Whistle Stop Pub,(503) 758-2569,Brewpub,"['Washougal', 'United States', 'US', 'Address', 45.57827, -122.351972, '98671', 'Washington', 'WA', '1834 Main St']"
+Inner Groove Brewing,(412) 828-1351,Location,"['Pittsburgh', 'United States', 'US', 'Address', 40.422098, -79.99271, '15210', 'Pennsylvania', 'PA', '827 E. WARRINGTON AVE.']"
+"Brewery in Planning - Oxford, MI",,Brewery In Planning,"['Oxford', 'United States', 'US', 'Block', 42.818385, -83.320794, '48371', 'Michigan', 'MI', '222 Nicklas Ct']"
+"Brewery in Planning - Brownwood , TX",(325) 642-5033,Brewery In Planning,"['Brownwood', 'United States', 'US', 'ExtendedZip', 31.7339, -98.9756, '76801', 'Texas', 'TX', '320 Riverside Park Drive']"
+Pratt Brewing Company,,Micro,"['Spring Grove', 'United States', 'US', 'Block', 42.44395, -88.237112, '60081', 'Illinois', 'IL', '2025 Main Street Rd']"
+Lavelle Brewing,(973) 945-6121,Brewery In Planning,"['Huntsville', 'United States', 'US', 'Block', 34.620619, -86.565653, '35801', 'Alabama', 'AL', '11515 Gilleland Dr']"
+"Brewery in Planning - Vienna, VA",,Brewery In Planning,"['Vienna', 'United States', 'US', 'Address', 38.881788, -77.228229, '22180-6779', 'Virginia', 'VA', '2671 Avenir Pl Apt 1542']"
